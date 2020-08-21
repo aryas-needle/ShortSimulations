@@ -1,3 +1,3 @@
-***Short Simulations***
-List of simulations:
-1) Monty Hall Problem Simulation
+#Short Simulations
+##List of Simulations in chronological order
+###1) Monty Hall problem
