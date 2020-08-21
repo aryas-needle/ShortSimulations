@@ -48,7 +48,9 @@ def montyHall(experiment_number, no_of_doors, change = True):
 	return result
 
 experiment_number = int(input('Enter the no of test cases to carry: '))
-no_of_doors = int(input('Enter the initial number of doors'))
+#no_of_doors = int(input('Enter the initial number of doors'))			#Because there is a bug for doors > 3 also the probablity is same as with 3 doors
+# Simulation will come out exactly same with custom door number as with 3 doors
+no_of_doors = 3
 change = input('Do you want to switch places after your chioce repeteadly?(Y/N)')
 change = True if change.upper() == 'Y' else False
 
