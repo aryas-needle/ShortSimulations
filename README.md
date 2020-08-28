@@ -14,4 +14,4 @@
     </b></li>
 </ol>
 <h3>List of Simulations in chronological order</h3><br>
-1. [Monty Hall Problem](https://www.youtube.com/watch?v=okAFv1JDtT0)
+1. Monty Hall Problem - https://www.youtube.com/watch?v=okAFv1JDtT0
