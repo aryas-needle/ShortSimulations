@@ -2,7 +2,7 @@
 
 <h3>Some things to do first...</h3>
 <ol>
-  <li> Clone repo by <b>git clone https://github.com/aryas-needle/ShortSimulations</b></li>
+  <li> Clone repo by <b>git clone https://github.com/needl3/ShortSimulations</b></li>
   <li>Goto cloned directory</li>
   <li>Install dpendencies by 
     <b>
